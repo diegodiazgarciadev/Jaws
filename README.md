@@ -94,4 +94,10 @@ We check that there are 3 dangerous species (White Shark, Tiger Shark and Bull S
 ![image](https://user-images.githubusercontent.com/82879300/130501451-8edfa2f9-af14-45ea-ba27-8d1d1b1224c9.png)
 There is not a big difference between locations where there are deahtly attacks and where there are not. In this maps all kind of sharks has been added (included Others).
 
+### Conclusion
 
+This is a fun dataset where you can practice all your cleaning skills.
+
+I have been able of getting a lot of location information about the attacks that give us a cool spatial vision about it.
+
+Maybe I will work a bit more on this dataset on the future but "We're going to need a bigger boat"
